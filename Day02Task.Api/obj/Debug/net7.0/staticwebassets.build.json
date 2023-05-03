@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LeVnpXGJrkuqCXaHgmP3k3HfC+Z0zFkbKkmh7hjma3g=",
+  "Source": "Day02Task.Api",
+  "BasePath": "_content/Day02Task.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

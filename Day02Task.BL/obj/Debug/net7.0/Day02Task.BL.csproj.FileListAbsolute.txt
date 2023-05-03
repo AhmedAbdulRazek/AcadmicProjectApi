@@ -1,0 +1,15 @@
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\bin\Debug\net7.0\Day02Task.BL.deps.json
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\bin\Debug\net7.0\Day02Task.BL.dll
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\bin\Debug\net7.0\Day02Task.BL.pdb
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\bin\Debug\net7.0\Day02Task.DAL.dll
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\bin\Debug\net7.0\Day02Task.DAL.pdb
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\Day02Task.BL.csproj.AssemblyReference.cache
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\Day02Task.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\Day02Task.BL.AssemblyInfoInputs.cache
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\Day02Task.BL.AssemblyInfo.cs
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\Day02Task.BL.csproj.CoreCompileInputs.cache
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\Day02Task.BL.csproj.CopyComplete
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\Day02Task.BL.dll
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\refint\Day02Task.BL.dll
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\Day02Task.BL.pdb
+E:\ITI\Api\Day02\Assignment\Day02Task.BL\obj\Debug\net7.0\ref\Day02Task.BL.dll
